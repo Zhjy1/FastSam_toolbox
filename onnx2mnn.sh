@@ -1,0 +1,1 @@
+mnnconvert -f ONNX --modelFile ./models/fast_sam_1024.onnx --MNNModel ./models/fastsam_mnn.mnn --bizCode biz
