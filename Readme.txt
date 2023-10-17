@@ -1,4 +1,4 @@
-该文件夹中包括：
+代码文件说明：
 pt2onnx.sh、ptonnx.py：模型转换代码（由pytorch模型转为onnx模型）
 onnx2trt.sh：onnx模型转为trt模型的代码
 
